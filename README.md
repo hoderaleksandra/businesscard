@@ -1,2 +1,2 @@
 # businesscard
-Simple webpage with business cards. HMTL, CSS
+Webpage with business cards. HMTL, CSS
